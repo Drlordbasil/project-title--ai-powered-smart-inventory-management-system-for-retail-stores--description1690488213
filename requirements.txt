@@ -1,0 +1,14 @@
+The package requirements for this Python program are:
+
+- pandas
+- matplotlib
+- scikit-learn
+- seaborn
+
+You can install these packages using the following command:
+
+```
+pip install pandas matplotlib scikit-learn seaborn
+```
+
+Make sure you have pip installed and accessible from the command line.
